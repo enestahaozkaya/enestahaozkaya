@@ -20,7 +20,7 @@ Currently, I am improving my skills in Laravel, PHP, and modern web application 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,git,github" />
 </p>
 
 ---
@@ -51,7 +51,7 @@ Currently, I am improving my skills in Laravel, PHP, and modern web application 
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=enestahaozkaya&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 

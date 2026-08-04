@@ -50,9 +50,7 @@ Currently improving my Laravel, PHP and backend development skills through real-
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=enestahaozkaya&theme=github-dark-blue&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=enestahaozkaya&theme=github-dark-blue&hide_border=true&cache_seconds=3600" />
 </p>
 
 

@@ -1,9 +1,9 @@
 # Hi there, I'm Enes Taha 👋
 
-### Software Engineering Student | Backend Developer
+### Software Engineering Student • Backend Developer
 
 I am a final-year Software Engineering student passionate about backend development.  
-Currently, I am improving my skills in Laravel, PHP, and modern web application development by building real-world projects and writing clean, maintainable code.
+Currently improving my Laravel, PHP and backend development skills through real-world projects.
 
 ---
 
@@ -39,9 +39,9 @@ Currently, I am improving my skills in Laravel, PHP, and modern web application 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=enestahaozkaya&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=enestahaozkaya&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enestahaozkaya&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enestahaozkaya&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 

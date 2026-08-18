@@ -35,14 +35,12 @@ I'm a Software Engineer passionate about backend development. Currently sharpeni
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="profile/stats.svg" />
-  <img height="170" src="profile/top-langs.svg" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
 </p>
 
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="profile/snake.svg" alt="GitHub contribution snake" width="100%" />
+  <img height="200" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages" />
+  <img height="200" src="profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
 </p>
 
 <div align="center">
